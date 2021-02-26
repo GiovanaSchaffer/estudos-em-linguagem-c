@@ -29,16 +29,16 @@ int main(){
 				resultado = num1+num2;
 			}
 			
-			if(op == 2){
+			else if(op == 2){
 				resultado = num1-num2;
 
 			}
 
-			if(op == 3){
+			else if(op == 3){
 				resultado = num1*num2;
 			}
 			
-			if(op == 4){
+			else if(op == 4){
 				resultado = num1/num2;
 			}
 
