@@ -17,7 +17,7 @@ int main(){
 			return fat;
 		}
 	}	
-
+		//31
 	printf("O fatorial de %i é %i\n",num,fatorial(num));
 
 
